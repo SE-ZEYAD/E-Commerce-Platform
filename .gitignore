@@ -34,3 +34,5 @@ wwwroot/node_modules/
 # Other non-essential files
 LapShop.xml
 lap-shop.png
+
+!lap-shop.png
