@@ -1,0 +1,36 @@
+# Build files
+bin/
+obj/
+
+# User-specific files
+.vs/
+LapShop.csproj.user
+jsconfig1.json
+
+# Environment-specific settings
+appsettings.Development.json
+secrets.json
+
+# Log and temporary files
+*.log
+*.tmp
+*.temp
+
+# Docker files (if used)
+*.dockerfile
+docker-compose.override.yml
+
+# Node.js (if used)
+node_modules/
+npm-debug.log
+
+# IDE and editor folders
+.vscode/
+
+# Publish folders
+wwwroot/dist/
+wwwroot/node_modules/
+
+# Other non-essential files
+LapShop.xml
+lap-shop.png
